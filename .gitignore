@@ -1,0 +1,39 @@
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+release.properties
+
+# Eclipse
+.project
+.classpath
+.settings/
+.metadata/
+.recommenders/
+.loadpath
+
+# IntelliJ / IDEA (in case you open it there)
+.idea/
+*.iml
+*.iws
+out/
+
+# VS Code
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs / reports
+*.log
+logs/
+surefire-reports/
+test-output/
+
+# Local env / temp
+*.tmp
+*.swp
+~$*
